@@ -110,13 +110,13 @@ const Hero = () => {
               <input
                 type="text"
                 placeholder="Питання (front)"
-                maxLength="24"
+                maxLength="25"
                 className="text-[1.56rem] leading-8 text-center mb-5 border-b-[2px] border-black w-64"
               />
               <input
                 type="text"
                 placeholder="Відповідь (back)"
-                maxLength="244"
+                maxLength="25"
                 className="text-[1.56rem] leading-8 text-center mb-5 border-b-[2px] border-black w-64"
               />
               <input
